@@ -1,3 +1,3 @@
-This iis git project readme
+This is git project readme
 
-Made By: Samson Meskele
+Made By: yonatan Amdemichael
